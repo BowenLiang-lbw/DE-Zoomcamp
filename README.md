@@ -1,0 +1,1 @@
+Here are my practice notes for attending Data Engineering Zoomcamp 2024.
